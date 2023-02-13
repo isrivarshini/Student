@@ -2,3 +2,6 @@ Name: Varshini
 Roll no:19rh1a1263
 Section:ITB
 Year:4th Year
+Subjects:Python
+         PWCN
+         ASN
